@@ -12,7 +12,14 @@ Here is a short list of the supported funtionalities:
 - Sanity Tools - ability to quickly find objects in the scene with non-default V-Ray TraceSets, V-Ray Properties and Object Properties
 - Assets Control
 
-#
+# Challenges
+MaxScript is not very popular language and there aren't many resources over the internet.
+
+# Technology
+- MaxScript
+
+What I learned
+
 
 # Examples
 ![image](https://user-images.githubusercontent.com/74985932/208246761-c525e94f-afcd-404d-913f-56bd5c4ae646.png)
