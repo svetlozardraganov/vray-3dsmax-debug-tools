@@ -1,0 +1,32 @@
+name "VRay3DSupportTools"
+version 2.0
+
+
+move "3DSupport-VRay3DSupportTools.mcr"	 	 to "$usermacros"
+
+move "VRay3DSupportTools_24i.bmp"	 	 to "$usericons"
+
+move "VRay3DSupportTools_24a.bmp"	 	 to "$usericons"
+
+move "VRay3DSupportTools_16i.bmp"	 	 to "$usericons"
+
+move "VRay3DSupportTools_16a.bmp"	 	 to "$usericons"
+
+
+run  "$usermacros\\3DSupport-VRay3DSupportTools.mcr"
+drop "$usermacros\\3DSupport-VRay3DSupportTools.mcr"
+
+run  "$usericons\\VRay3DSupportTools_24i.bmp"
+drop "$usericons\\VRay3DSupportTools_24i.bmp"
+
+run  "$usericons\\VRay3DSupportTools_24a.bmp"
+drop "$usericons\\VRay3DSupportTools_24a.bmp"
+
+run  "$usericons\\VRay3DSupportTools_24i.bmp"
+drop "$usericons\\VRay3DSupportTools_24i.bmp"
+
+run  "$usericons\\VRay3DSupportTools_16a.bmp"
+drop "$usericons\\VRay3DSupportTools_16a.bmp"
+
+
+clear temp

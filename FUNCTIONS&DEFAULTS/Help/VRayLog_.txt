@@ -1,0 +1,10 @@
+==========================================================
+Console created, V-Ray 5.10.03 from Jul  9 2021, 15:51:46
+==========================================================
+[2021/Oct/3|20:59:20] Saving to file.
+[2021/Oct/3|20:59:20]   Saving distributed renderer.
+[2021/Oct/3|20:59:20]   Saving filter parameters.
+[2021/Oct/3|20:59:20] Saving done.
+[2021/Oct/3|21:00:13] [VRender] Constructor entered.
+[2021/Oct/3|21:00:13]   Setting default filter kernel.
+Redirecting log file to "C:\Users\Person\AppData\Local\Temp\VRayLog.txt"

@@ -1,0 +1,30 @@
+Tue Nov 22 00:37:45 2022       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 526.47       Driver Version: 526.47       CUDA Version: 12.0     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name            TCC/WDDM | Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  NVIDIA GeForce ... WDDM  | 00000000:01:00.0 Off |                  N/A |
+| 33%   37C    P8    10W / 190W |   1528MiB /  8192MiB |      9%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
+|    0   N/A  N/A      8864    C+G   ...k\3ds Max 2023\3dsmax.exe    N/A      |
+|    0   N/A  N/A     11060    C+G   ...8wekyb3d8bbwe\Cortana.exe    N/A      |
+|    0   N/A  N/A     11308    C+G   ...kyb3d8bbwe\Calculator.exe    N/A      |
+|    0   N/A  N/A     13208    C+G   ...me\Application\chrome.exe    N/A      |
+|    0   N/A  N/A     14352    C+G   ...5n1h2txyewy\SearchApp.exe    N/A      |
+|    0   N/A  N/A     16744    C+G   ...y\ShellExperienceHost.exe    N/A      |
+|    0   N/A  N/A     18108    C+G   ...cw5n1h2txyewy\LockApp.exe    N/A      |
+|    0   N/A  N/A     18604    C+G   ...2txyewy\TextInputHost.exe    N/A      |
+|    0   N/A  N/A     18964    C+G   ...\Autodesk AdSSO\AdSSO.exe    N/A      |
+|    0   N/A  N/A     19244    C+G   ...6.0.3.0\GoogleDriveFS.exe    N/A      |
+|    0   N/A  N/A     19548    C+G   C:\Windows\explorer.exe         N/A      |
++-----------------------------------------------------------------------------+

@@ -1,0 +1,5 @@
+The process of installing the VRay3DSupportTools is very simple, just Drag & Drop "V-Ray 3D Support Tools 2.0.mzp"into 3ds Max.
+
+After the installation is complete, run 3ds Max, go to [Customize UI] settings, select [3DSupport] in [Category] drop-down list, below in the list you will see [VRay3DSupportTools].
+
+NOTE: If you have the previous version of the script, you do not need to do anything, this process will replace the previous installation.

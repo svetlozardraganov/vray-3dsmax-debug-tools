@@ -1,0 +1,6 @@
+==========================================================
+Console created, V-Ray 6.00.10 from Sep 26 2022, 02:18:29
+==========================================================
+[2022/Nov/21|22:18:37] [VRender] Constructor entered.
+[2022/Nov/21|22:18:37]   Setting default filter kernel.
+Redirecting log file to "C:\Users\SVETLO~1\AppData\Local\Temp\VRayLog.txt"
