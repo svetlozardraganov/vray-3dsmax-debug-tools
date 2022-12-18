@@ -1,19 +1,19 @@
 # V-Ray for 3dsmax Debug Tools
 A collection of MaxScripts for troubleshooting 3ds Max projects created with V-Ray.
-The main focus of the project is to provide the 3d engeneer the ability to quickly analyze unknown 3ds Max scenes and find potential issues.
-Here is a short list of the supported funtionalities:
-- Version information - current/saved v-ray version, installed/recomended gpu-driver
+The main focus of the project is to provide the 3d engineer the ability to quickly analyze unknown 3ds Max scenes and find potential issues.
+Here is a short list of the supported functionalities:
+- Version information - current/saved v-ray version, installed/recommended gpu-driver
 - Demo scenes - predefined scenes for testing purposes
 - Select tools - allows to quickly select 3ds max nodes by type like modifiers, object types, light-types, proxy objects
-- Lights tools - allows to quickly control all lights in the scene
+- Lights tools - allows quickly control of all lights in the scene
 - Material tools - allows to quickly select materials by types and unsupported materials
 - V-Ray MaxScript parameters - list and control over all V-Ray Render Settings parameters
 - Render Settings Comparison - ability to compare and switch back and forth between current vs default render settings
-- Sanity Tools - ability to quickly find objects in the scene with non-default V-Ray TraceSets, V-Ray Properties and Object Properties
+- Sanity Tools - ability to quickly find objects in the scene with non-default V-Ray TraceSets, V-Ray Properties, and Object Properties
 - Assets Control
 
 # Challenges
-MaxScript is not very popular language and there aren't many resources over the internet.
+MaxScript is not a very popular language and there aren't many resources over the internet.
 
 # Technology
 - MaxScript
