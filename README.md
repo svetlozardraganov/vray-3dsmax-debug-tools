@@ -13,13 +13,15 @@ Here is a short list of the supported functionalities:
 - Assets Control
 
 # Challenges
-MaxScript is not a very popular language and there aren't many resources over the internet.
+MaxScript is not a very popular scripting language and there aren't many resources over the internet. The usual google-search stragegy didn't work very well so I have to rely mainly on MaxScript Reference documentation which was also challenging due to very poor search engine. 
 
 # Technology
-- MaxScript
+- MaxScript - the entire tool is written on MaxScript language. No external modules are used.
 
-What I learned
-
+# What I learned
+- How to interact with 3ds Max and V-Ray using the MaxScript scripting language. 
+- How to build native 3ds Max GUI interface
+- How to build a set of tools for work optimization
 
 # Examples
 ![image](https://user-images.githubusercontent.com/74985932/208246761-c525e94f-afcd-404d-913f-56bd5c4ae646.png)
